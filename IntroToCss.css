@@ -1,0 +1,19 @@
+/* <elementor selector> */
+h2,span{
+    background-color: blue;
+    color:blanchedalmond;
+}
+
+/* <elementory selector list> */
+h2,p{
+    background-color: blue;
+    color:blanchedalmond;
+}
+
+/* <universal selector> */
+body{
+    color:yellow;
+    background-color: blueviolet;
+    border: 02px dotted red;
+}
+
